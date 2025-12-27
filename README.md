@@ -47,7 +47,7 @@ The system aims to make banking operations more **secure, efficient, and user-fr
 
 - **Rakesh Dhangar** – Developer  
 - **Shubham Jamadar** – Frontend  
-- **Hemanshu Girase** – Documentation  
+- **Hemanshu Girase** – Frontend & Documentation  
 - **Gaurav Rajput** – GitHub & Logbook Management  
 
 ---
